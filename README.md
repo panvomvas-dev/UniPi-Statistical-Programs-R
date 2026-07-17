@@ -1,3 +1,3 @@
-# UniPi-Statistical-Programs-R
+#UniPi-Industrial-Performance-Analysis
 This project is a statistical analysis of manufacturing operator performance, developed by me in the Department of Statistics and Insurance Science at the University of Piraeus. It evaluates the impact of training, shifts, and quality metrics on the overall efficiency of 2,000 industrial operators. 
 The methodology which I used is that I conducted all data processing and modeling entirely in R. The statistical workflow I implemented includes Exploratory Data Analysis (EDA), hypothesis testing (t-tests, Chi-square), and Multiple Linear Regression modeling. Finally, I applied comprehensive model diagnostics (Shapiro-Wilk, Breusch-Pagan, Durbin-Watson, and VIF) to rigorously verify all statistical assumptions.
